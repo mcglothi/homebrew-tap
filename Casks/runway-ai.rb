@@ -1,4 +1,4 @@
-cask "runway" do
+cask "runway-ai" do
   version "0.1.1"
 
   if Hardware::CPU.arm?
