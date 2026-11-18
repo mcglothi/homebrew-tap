@@ -1,6 +1,6 @@
 cask "portside" do
-  version "0.38.0"
-  sha256 "83ce9efb7b535438b0c979f93aef452f427cc062d83a7cd56432be15d4104ed5"
+  version "0.39.0"
+  sha256 "12e0b75b688e93abc0e1a1ea467ec39814c03e4eb6731af861d33d34826ef5ab"
 
   url "https://github.com/mcglothi/portside/releases/download/v#{version}/Portside-#{version}.zip"
   name "Portside"
